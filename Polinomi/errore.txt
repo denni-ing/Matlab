@@ -1,0 +1,12 @@
+Errore relativo al polinomio P(3)
+Errore: 24.272447
+
+Errore relativo al polinomio P(5)
+Errore: 29.603093
+
+Errore relativo al polinomio P(7)
+Errore: 34.578619
+
+Errore relativo al polinomio P(9)
+Errore: 39.095403
+
